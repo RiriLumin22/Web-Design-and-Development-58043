@@ -1,3 +1,10 @@
+<body bgcolor = "yellow" align = "center">
+<font face = "verdana">
+<div style="border: 10px solid #555;">
+<h1 align = "center"><font face = "cooper"> Home </font> </h1>
+<br>
+<br>
+<h3>
 <?php
 
 $server = "localhost";
@@ -39,8 +46,6 @@ if(isset($_POST["User"]))
 		exit();
 	}
 
-
-
-
-
 ?>
+</h3>
+</font>
